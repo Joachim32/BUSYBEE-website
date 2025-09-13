@@ -25,7 +25,7 @@
   transform: translateX(-50%);
   width: 100px;
   height: 4px;
-  background: #3498db;
+  background: #f08c09;
   border-radius: 2px;
 }
 
@@ -65,7 +65,7 @@
   background: #f9f9f9;
   border-radius: 8px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-  border-left: 4px solid #3498db;
+  border-left: 4px solid #f08c09;
 }
 
 /* Responsive design */
@@ -140,14 +140,14 @@
   background: #fff;
   border-radius: 8px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-  border-top: 3px solid #3498db;
+  border-top: 3px solid #f08c09;
 }
 
 /* CTA */
 .about-cta {
   text-align: center;
   padding: 3rem;
-  background: #3498db;
+  background: #f08c09;
   color: white;
   border-radius: 8px;
   margin: 3rem 0;
@@ -210,7 +210,7 @@
   transform: translateX(-50%);
   width: 100px;
   height: 4px;
-  background: #3498db;
+  background:#f08c09;
   border-radius: 2px;
 }
 
@@ -228,7 +228,7 @@
   overflow: hidden;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-top: 4px solid #3498db;
+  border-top: 4px solid #f08c09;
 }
 
 .service-item:hover {
@@ -309,14 +309,14 @@
 .service-link {
   display: inline-block;
   padding: 1rem 1.5rem;
-  color: #3498db;
+  color: #f08c09;
   font-weight: 600;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .service-link:hover {
-  color: #2980b9;
+  color: #f08c09;
 }
 .homepage {
   max-width: 100%;
@@ -382,20 +382,20 @@
 }
 
 .primary-btn {
-  background: #3498db;
+  background:#f08c09;
   color: white;
-  border: 2px solid #3498db;
+  border: 2px solid#f08c09;
 }
 
 .secondary-btn {
   background: transparent;
-  color: #3498db;
-  border: 2px solid #3498db;
+  color:#f08c09;
+  border: 2px solid #f08c09;
 }
 
 .primary-btn:hover {
-  background: #2980b9;
-  border-color: #2980b9;
+  background: #f08c09;
+  border-color: #f08c09;
   transform: translateY(-3px);
 }
 
@@ -421,7 +421,7 @@
   transform: translateX(-50%);
   width: 80px;
   height: 3px;
-  background: #3498db;
+  background: #f08c09;
 }
 
 /* Services Preview */
@@ -472,14 +472,14 @@
 .preview-card a {
   display: inline-block;
   padding: 1rem 1.5rem;
-  color: #3498db;
+  color:#f08c09;
   font-weight: 600;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .preview-card a:hover {
-  color: #2980b9;
+  color:#f08c09;
 }
 
 /* About Preview */
@@ -523,7 +523,7 @@
 }
 
 .benefits-list li span {
-  color: #3498db;
+  color:#f08c09;
   font-weight: bold;
 }
 
@@ -572,8 +572,8 @@
 /* CTA Section */
 .cta-section {
   padding: 4rem 2rem;
-  background: #3498db;
-  color: white;
+  background: white;
+  color: #666;
   text-align: center;
 }
 
@@ -594,8 +594,8 @@
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 2rem;
   padding: 4rem 2rem;
-  background: #2c3e50;
-  color: white;
+  background:  #f08c09;
+  color: #666;
 }
 
 .contact-item {
@@ -605,7 +605,7 @@
 .contact-icon {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #3498db;
+  color:#f08c09;
 }
 
 .contact-item h3 {
@@ -681,8 +681,7 @@
 
 /* Contact Hero */
 .contact-hero {
-  background: linear-gradient(rgba(44, 62, 80, 0.8), rgba(44, 62, 80, 0.8)), 
-              url('../assets/contact-image.jpg');
+  background:#f8f9fa;
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -690,7 +689,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  color: white;
+  color: #555;
   padding: 0 1rem;
 }
 
@@ -730,7 +729,7 @@
 }
 
 .contact-icon {
-  background: #3498db;
+  background: #f08c09;
   color: white;
   width: 50px;
   height: 50px;
@@ -785,7 +784,7 @@
 .form-group select:focus,
 .form-group textarea:focus {
   outline: none;
-  border-color: #3498db;
+  border-color: #f08c09;
 }
 
 .form-group textarea {
@@ -794,7 +793,7 @@
 }
 
 .submit-btn {
-  background: #3498db;
+  background:#f08c09;
   color: white;
   border: none;
   padding: 0.8rem 2rem;
@@ -806,7 +805,7 @@
 }
 
 .submit-btn:hover {
-  background: #2980b9;
+  background:#f08c09;
 }
 
 /* Map Section */

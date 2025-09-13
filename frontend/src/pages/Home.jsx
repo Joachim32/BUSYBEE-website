@@ -103,15 +103,15 @@ function Home() {
           <div className="testimonial">
             <p>"BusyBee transformed our office communication system with their professional PBX installation. The team was efficient and knowledgeable."</p>
             <div className="client-info">
-              <h4>John Mwamba</h4>
-              <p>CEO, ABC Corporation</p>
+              <h4>Faridi Murimba</h4>
+              <p>IT manager Afritea & Coffee Blenders</p>
             </div>
           </div>
           <div className="testimonial">
             <p>"The security system installed by BusyBee has given us peace of mind with its reliable performance and excellent support."</p>
             <div className="client-info">
               <h4>Sarah Johnson</h4>
-              <p>Director, XYZ School</p>
+              <p>Manager Vacanze dongwe Resort Rotel</p>
             </div>
           </div>
         </div>

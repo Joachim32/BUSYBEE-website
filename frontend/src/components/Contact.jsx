@@ -144,8 +144,8 @@ const handleSubmit = async (e) => {
               </div>
               <div className="contact-details">
                 <h3>Phone</h3>
-                <p>+255 123 456 789</p>
-                <p>+255 987 654 321</p>
+                <p>+255 754 058 134</p>
+                <p>+255 782 058 134</p>
               </div>
             </div>
 
@@ -155,8 +155,8 @@ const handleSubmit = async (e) => {
               </div>
               <div className="contact-details">
                 <h3>Email</h3>
-                <p>info@busybee.co.tz</p>
-                <p>support@busybee.co.tz</p>
+                <p>busybeecommunication2017@gmail.com</p>
+                <p>tengewadh@gmail.com</p>
               </div>
             </div>
 
@@ -166,7 +166,7 @@ const handleSubmit = async (e) => {
               </div>
               <div className="contact-details">
                 <h3>Address</h3>
-                <p>123 Tech Street</p>
+                <p>Serengeti street mbagala</p>
                 <p>Dar es Salaam, Tanzania</p>
               </div>
             </div>
@@ -178,7 +178,7 @@ const handleSubmit = async (e) => {
               <div className="contact-details">
                 <h3>Working Hours</h3>
                 <p>Monday - Friday: 8:00 AM - 5:00 PM</p>
-                <p>Saturday: 9:00 AM - 1:00 PM</p>
+                <p>Saturday: 8:00 AM - 1:00 PM</p>
               </div>
             </div>
           </div>
