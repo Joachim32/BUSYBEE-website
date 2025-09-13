@@ -1,0 +1,39 @@
+.Navbar {
+  width: 115%;
+  height: 70px;
+  background-color: #f08c09;
+  display: flex;
+  position: relative; 
+  top: 0;
+  flex-direction: row;
+}
+ .Navbar .leftside {
+  flex: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  border-radius: 10px;
+
+}
+.leftside img{
+height: 60;
+border-radius: 10px;
+}  
+.logo{
+  height: 60px;
+  margin-right: 20px;
+}
+.Navbar .rightside {
+  flex: 50;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    padding-right: 1px;
+}
+.Navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+}
